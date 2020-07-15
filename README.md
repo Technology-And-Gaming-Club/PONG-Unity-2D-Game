@@ -1,5 +1,5 @@
-# Pong
-made with Unity2D
+# Pong Game
+Made With Unity2D
 
 ![alt text](resources/Gifs/PongInGif.gif)
 
